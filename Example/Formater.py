@@ -28,7 +28,7 @@ def formater(filename=[]):
 				print(Z[i],end='    ',file=out)
 				print(filename.index(file)+1,file=out)
 #########在这里指定#########
-Zu=[]
+Zu=["T1","T2"]
 ##########################
 #依次生成指定组文件名列表
 for Tnum in Zu:
