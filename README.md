@@ -1,7 +1,8 @@
 SLFormater
 ==========
 ##简介
-本Python脚本是用来将Surfer内做出的以bln为后缀的散点文件转化为Landmark中Z-map所能识别的格式，十分欢迎各位同我一起改进这个脚本。
+本脚本是用来将Surfer内做出的以bln为后缀的散点文件转化为Landmark中Z-map所能识别的格式，十分欢迎各位与我一起改进这个脚本。
+目前该脚本基于Bash+Python3.4，Mac OSX下可以正常运行。
 
 ##使用说明
 1. 将Formater.py脚本与需要处理的文件置于同一文件夹下
